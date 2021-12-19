@@ -1,0 +1,38 @@
+
+.body {
+margin: 5%;
+display: block;
+background-color: white;
+}
+
+.header {
+	width: 60%;
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.byline {
+	width: 60%;
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.information {
+	width: 50%;
+    display: table;
+    margin: 0 auto;
+}
+
+
+.figcaption {font-size: 8.50pt;}
+
+.footer {
+	text-align: center;
+	border: lightgray;
+	background: lightgray;
+	border-width: 5px;
+	border-style: solid;
+}
+
